@@ -1,0 +1,11 @@
+[
+  {"md5":"517110bd83835338c037269e603db55d","path":"C:\\Windows\\system32\\taskhost.exe"},
+  {"md5":"f162d5f5e845b9dc352dd1bad8cef1bc","path":"C:\\Windows\\system32\\Dwm.exe"},
+  {"md5":"ac4c51eb24aa95b77f705ab159189e24","path":"C:\\Windows\\Explorer.EXE"},
+  {"md5":"43026911bd03faa000656941dfa5039b","path":"C:\\Program Files\\VMware\\VMware Tools\\vmtoolsd.exe"},
+  {"md5":"5746bd7e255dd6a8afa06f7c42c1ba41","path":"C:\\Windows\\system32\\cmd.exe"},
+  {"md5":"bd51024fb014064bc9fe8c715c18392f","path":"C:\\Windows\\system32\\conhost.exe"},
+  {"md5":"f2c7bb8acc97f92e987a2d4087d021b1","path":"C:\\Windows\\system32\\NOTEPAD.EXE"},
+  {"md5":"2d72cf80740f6c19a837346b1c8f181d","path":"C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe"},
+  {"md5":"4adf034057a3be2e6cb751c7faed8ba8","path":"C:\\ProgramData\\osquery\\osqueryi.exe"}
+]
